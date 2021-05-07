@@ -8,7 +8,7 @@ bilibili-match-prediction
 ## 工具简介
 
 这是一个利用 Linux Crontab  等方式实现哔哩哔哩（Bilibili）赛事预测的工具，用于每日赚取硬币。
-**如果觉得好用，顺手点个 Star 吧 ❤**
+**如果觉得好用，顺手点个 Star 吧 
 
 **仓库地址：[JunzhouLiu/bilibili-match-prediction](https://github.com/JunzhouLiu/bilibili-match-prediction)**
 
